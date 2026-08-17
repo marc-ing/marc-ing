@@ -4,7 +4,7 @@
 
 <p><strong>Turning small ideas into useful, open-source products.</strong></p>
 
-<p>I build practical AI tools for macOS and content creation — and share what I learn along the way.</p>
+<p>I build useful things with technology and share what I learn along the way.</p>
 
 <p>
   <a href="https://github.com/marc-ing/marc-personal-website" target="_blank"><img src="https://img.shields.io/badge/portfolio-in_progress-111111?style=flat&labelColor=6b7280" alt="Portfolio"></a>
@@ -21,9 +21,9 @@
 
 ## Now
 
-I’m focused on turning AI workflows into small, useful products. My current work spans native macOS tools, screen understanding, translation, and content creation.
+I’m focused on exploring new ideas, building meaningful products, and learning through the process.
 
-I care about fast shipping, clear product thinking, delightful details, and open-source software that removes friction from everyday work.
+I value curiosity, thoughtful work, and creating things that make everyday life a little better.
 
 ---
 
