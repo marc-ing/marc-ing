@@ -21,9 +21,9 @@
 
 ## Now
 
-I’m focused on exploring new ideas, building meaningful products, and learning through the process.
+I’m currently exploring new ideas at the intersection of technology, creativity, and everyday life. I enjoy turning early concepts into thoughtful products, learning through experimentation, and sharing the process along the way.
 
-I value curiosity, thoughtful work, and creating things that make everyday life a little better.
+I care about doing work that is useful, clear, and human. My goal is to keep building, stay curious, and create things that make everyday experiences a little simpler and more enjoyable.
 
 ---
 
