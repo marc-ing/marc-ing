@@ -7,10 +7,10 @@
 <p>I build useful things with technology and share what I learn along the way.</p>
 
 <p>
-  <a href="https://github.com/marc-ing/marc-personal-website" target="_blank"><img src="https://img.shields.io/badge/portfolio-in_progress-111111?style=flat" alt="Portfolio"></a>
-  <a href="https://x.com/MarcMarcMarc_k" target="_blank"><img src="https://img.shields.io/badge/X-@MarcMarcMarc__k-111111?style=flat" alt="X"></a>
-  <a href="https://github.com/marc-ing" target="_blank"><img src="https://img.shields.io/badge/github-marc--ing-111111?style=flat&labelColor=6b7280" alt="GitHub"></a>
-  <a href="mailto:marceemeng@outlook.com"><img src="https://img.shields.io/badge/email-contact-111111?style=flat&labelColor=6b7280" alt="Email"></a>
+  <a href="https://github.com/marc-ing/marc-personal-website" target="_blank"><img src="https://img.shields.io/badge/portfolio-in_progress-EA580C?style=flat&labelColor=C2410C" alt="Portfolio"></a>
+  <a href="https://x.com/MarcMarcMarc_k" target="_blank"><img src="https://img.shields.io/badge/X-@MarcMarcMarc__k-0EA5E9?style=flat&labelColor=0369A1&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://github.com/marc-ing" target="_blank"><img src="https://img.shields.io/badge/github-marc--ing-4F46E5?style=flat&labelColor=3730A3&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:marceemeng@outlook.com"><img src="https://img.shields.io/badge/email-contact-E11D48?style=flat&labelColor=BE123C&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
 </p>
 
 <code>ROLE: AI Builder / BASE: China / FOCUS: AI tools · Product craft</code>
