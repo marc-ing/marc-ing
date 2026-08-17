@@ -10,7 +10,7 @@
   <a href="https://github.com/marc-ing/marc-personal-website" target="_blank"><img src="https://img.shields.io/badge/portfolio-in_progress-EA580C?style=flat&labelColor=C2410C" alt="Portfolio"></a>
   <a href="https://x.com/MarcMarcMarc_k" target="_blank"><img src="https://img.shields.io/badge/X-@MarcMarcMarc__k-0EA5E9?style=flat&labelColor=0369A1&logo=x&logoColor=white" alt="X"></a>
   <a href="https://github.com/marc-ing" target="_blank"><img src="https://img.shields.io/badge/github-marc--ing-4F46E5?style=flat&labelColor=3730A3&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:marceemeng@outlook.com"><img src="https://img.shields.io/badge/email-contact-E11D48?style=flat&labelColor=BE123C&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
+  <a href="mailto:marceemeng@outlook.com"><img src="https://img.shields.io/badge/email-contact-E11D48?style=flat&labelColor=BE123C&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwIDRINGEyIDIgMCAwIDAtMiAydjEyYTIgMiAwIDAgMCAyIDJoMTZhMiAyIDAgMCAwIDItMlY2YTIgMiAwIDAgMC0yLTJabTAgNC04IDUtOC01VjZsOCA1IDgtNXYyWiIvPjwvc3ZnPg%3D%3D" alt="Email"></a>
 </p>
 
 <code>ROLE: AI Builder / BASE: China / FOCUS: AI tools · Product craft</code>
