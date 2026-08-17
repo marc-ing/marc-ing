@@ -25,13 +25,6 @@ I’m focused on turning AI workflows into small, useful products. My current wo
 
 I care about fast shipping, clear product thinking, delightful details, and open-source software that removes friction from everyday work.
 
-## Selected projects
-
-| [Open Screen Translate](https://github.com/marc-ing/open-screen-translate) | [RednoteCreator](https://github.com/marc-ing/RednoteCreator) | [Personal Website](https://github.com/marc-ing/marc-personal-website) |
-|---|---|---|
-| Open-source, AI-powered macOS menu bar app for capturing, recognizing, and translating on-screen text. | AI-assisted workflow for creating Xiaohongshu / RedNote articles. | A home for my projects, experiments, and notes — currently in progress. |
-| `Rust` · `macOS` · `OCR` · `AI` | `Python` · `AI` · `Content` | `Portfolio` · `Building in public` |
-
 ---
 
 <div align="center">
